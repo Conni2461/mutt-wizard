@@ -37,6 +37,7 @@ canaglie.net,mail.autistici.org,993,smtp.autistici.org,465
 canaglie.org,mail.autistici.org,993,smtp.autistici.org,465
 carleton.ca,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
 cash4u.com,imap.mail.com,993,smtp.mail.com,587
+ceng.metu.edu.tr,imap.ceng.metu.edu.tr,993,mailhost.ceng.metu.edu.tr,587
 cheerful.com,imap.mail.com,993,smtp.mail.com,587
 chef.net,imap.mail.com,993,smtp.mail.com,587
 chemist.com,imap.mail.com,993,smtp.mail.com,587
@@ -178,6 +179,7 @@ mailbox.org,imap.mailbox.org,993,smtp.mailbox.org,587
 mailbox.tu-dresden.de,msx.tu-dresden.de,993,msx.tu-dresden.de,587
 mailo.com,mail.mailo.com,993,mail.mailo.com,465
 memeware.net,mail.cock.li,993,mail.cock.li,587
+metu.edu.tr,imap.metu.edu.tr,993,smtp.metu.edu.tr,465
 ml1.net,imap.fastmail.com,993,smtp.fastmail.com,465
 mortemale.org,mail.autistici.org,993,smtp.autistici.org,465
 msn.com,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
@@ -185,8 +187,10 @@ muny.us,mail.muny.us,993,mail.muny.us,465
 myself.com,imap.mail.com,993,smtp.mail.com,587
 narod.ru,imap.yandex.com,993,smtp.yandex.com,587
 national.shitposting.agency,mail.cock.li,993,mail.cock.li,587
+ncsu.edu,imap.gmail.com,993,smtp.gmail.com,587
 netcourrier.com,mail.netcourrier.com,993,mail.netcourrier.com,465
 nigge.rs,mail.cock.li,993,mail.cock.li,587
+niser.ac.in,imap.gmail.com,993,smtp.gmail.com,587
 nuke.africa,mail.cock.li,993,mail.cock.li,587
 nyu.edu,imap.gmail.com,993,smtp.gmail.com,587
 o2.pl,poczta.o2.pl,993,poczta.o2.pl,465
@@ -251,6 +255,7 @@ tlu.edu,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
 tquad.ai,imap.mail.eu-west-1.awsapps.com,993,smtp.mail.eu-west-1.awsapps.com,465
 tu-harburg.de,mail.tu-harburg.de,993,mail.tu-harburg.de,587
 tuhh.de,mail.tu-harburg.de,993,mail.tu-harburg.de,587
+tum.de,xmail.mwn.de,993,postout.lrz.de,587
 txstate.edu,outlook.office365.com,993,smtp.office365.com,587
 ua.pt,outlook.office365.com,993,mail.ua.pt,25
 uach.mx,imap.gmail.com,993,smtp.gmail.com,587
@@ -287,5 +292,7 @@ yandex.kz,imap.yandex.com,993,smtp.yandex.com,587
 yandex.net,imap.yandex.com,993,smtp.yandex.com,587
 yandex.ru,imap.yandex.com,993,smtp.yandex.com,587
 yandex.ua,imap.yandex.com,993,smtp.yandex.com,587
+zaclys.net,mail.zaclys.net,993,mail.zaclys.net,465
 zoho.com,imap.zoho.com,993,smtp.zoho.com,465
 zohomail.eu,imap.zoho.eu,993,smtp.zoho.eu,465
+ymail.com,imap.mail.yahoo.com,993,smtp.mail.yahoo.com,465

@@ -26,18 +26,12 @@ sudo make install
 
 User of Arch-based distros can also install mutt-wizard from the AUR as [mutt-wizard-git](https://aur.archlinux.org/packages/mutt-wizard-git/).
 
-*NOTE:* If you have used an older version of mutt-wizard, especially when it used to use `offlineimap`, you need to remove your old configs. Back anything up that's important and run:
-
-```
-rm -rf ~/.config/mutt ~/.msmtprc ~/.config/msmtp ~/.offlineimap ~/.offlineimaprc ~/.config/offlineimap ~/.mbsyncrc
-```
-
 The mutt-wizard is run with the command `mw`. It also installs the `mailsync` command. Once everything is setup, you'll use `neomutt` to access your mail.
 
 - `mw add` -- add a new email account
 - `mw ls` -- list existing accounts
 - `mw pass` -- revise an account's password
-- `mw delete` -- deleted an added account
+- `mw delete` -- delete an added account
 - `mw purge` -- delete all accounts and settings
 - `mw cron` -- toggle/configure a cronjob to sync mail
 
@@ -120,4 +114,3 @@ mutt-wizard is free/libre software, licensed under the GPLv3.
 
 - Add ~~Mac OS~~/BSD compatibility (the script is confired to work for Mac OS now)
 - ~~Out-of-the-box compatibility with Protonmail Bridge~~ (I believe this is done, but more bug-testing is welcome since I don't have PM)
-- Option to keep configuration for accounts that failed to connect (maybe)
