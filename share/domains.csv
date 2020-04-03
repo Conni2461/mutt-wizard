@@ -15,6 +15,7 @@ anche.no,mail.autistici.org,993,smtp.autistici.org,465
 angelic.com,imap.mail.com,993,smtp.mail.com,587
 aol.com,imap.aol.com,993,smtp.aol.com,465
 appraiser.net,imap.mail.com,993,smtp.mail.com,587
+aquilenet.fr,imap.aquilenet.fr,993,smtp.aquilenet.fr,587
 archaeologist.com,imap.mail.com,993,smtp.mail.com,587
 arcticmail.com,imap.mail.com,993,smtp.mail.com,587
 artlover.com,imap.mail.com,993,smtp.mail.com,587
@@ -167,6 +168,8 @@ kth.se,webmail.kth.se,993,smtp.kth.se,587
 lavabit.com,lavabit.com,993,lavabit.com,587
 linuxmail.org,imap.mail.com,993,smtp.mail.com,587
 live.com,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
+live.de,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
+live.rhul.ac.uk,outlook.office365.com,993,smtp.office365.com,587
 logorroici.org,mail.autistici.org,993,smtp.autistici.org,465
 loves.dicksinhisan.us,mail.cock.li,993,mail.cock.li,587
 loves.dicksinmyan.us,mail.cock.li,993,mail.cock.li,587
@@ -177,6 +180,7 @@ mail.polimi.it,outlook.office365.com,993,smtp.office365.com,587
 mail.ru,imap.mail.ru,993,smtp.mail.ru,465
 mailbox.org,imap.mailbox.org,993,smtp.mailbox.org,587
 mailbox.tu-dresden.de,msx.tu-dresden.de,993,msx.tu-dresden.de,587
+mailfence.com,imap.mailfence.com,993,smtp.mailfence.com,465
 mailo.com,mail.mailo.com,993,mail.mailo.com,465
 memeware.net,mail.cock.li,993,mail.cock.li,587
 metu.edu.tr,imap.metu.edu.tr,993,smtp.metu.edu.tr,465
@@ -225,6 +229,7 @@ protonmail.com,127.0.0.1,1143,127.0.0.1,1025
 rape.lol,mail.cock.li,993,mail.cock.li,587
 redchan.it,mail.cock.li,993,mail.cock.li,587
 resch.pw,mail.resch.pw,993,mail.resch.pw,587
+riseup.net,mail.riseup.net,993,mail.riseup.net,465
 runbox.com,mail.runbox.com,993,mail.runbox.com,587
 rwth-aachen.de,mail.rwth-aachen.de,993,mail.rwth-aachen.de,587
 sapo.pt,imap.sapo.pt,993,smtp.sapo.pt,587
